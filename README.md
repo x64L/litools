@@ -6,7 +6,7 @@ Two scripts that make the Linux installation process easier for me, straight out
 # Getting the scripts in a shell
 ## curl
 **autochroot** - "curl -L https://bit.ly/2H0JsDc > autochroot"  
-** genfstab** - "curl -L https://bit.ly/2pUIRe7 > genfstab"
+**genfstab** - "curl -L https://bit.ly/2pUIRe7 > genfstab"
 ## wget
 **autochroot** - "wget https://bit.ly/2H0JsDc"  
-** genfstab** - "curl https://bit.ly/2pUIRe7"
+**genfstab** - "curl https://bit.ly/2pUIRe7"
